@@ -10,7 +10,7 @@
  */
 
 // Student Name	:	Kristian Griffith
-// Date      :Due 2nd March 2025
+// Date      	:	Due 2nd March 2025
 //
 // Definition:
 // This program is a modification of an example program give to us by our professor, John Charlery.
@@ -805,7 +805,7 @@ void ProjectFrame::OnExit(wxCommandEvent& event)
 void ProjectFrame::OnAbout(wxCommandEvent& event )
     {
 		wxString abt = wxString::Format(
-			"Programmer: Kristian Griffith - 400018059\n"
+			"Programmer: Kristian Griffith\n"
 			"Program: COMP2611 Data Structures Project #1\n"
 			"Program Purpose: To develop a GUI application that can read, write and format, popular records from Catalog.txt\n"
 			"Version: 1.0\n\n"
